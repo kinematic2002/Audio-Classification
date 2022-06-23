@@ -1,4 +1,3 @@
-absl-py @ file:///C:/ci/absl-py_1615411407614/work
 appdirs @ file:///home/conda/feedstock_root/build_artifacts/appdirs_1603108395799/work
 argon2-cffi @ file:///C:/ci/argon2-cffi_1613038019788/work
 astor==0.8.1
